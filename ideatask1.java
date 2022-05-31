@@ -1,4 +1,4 @@
-public class ideatask1 {
+public class IdeaTask1 {
     public static void main(String ...args){
         System.out.println("Java: version 11");
     }
